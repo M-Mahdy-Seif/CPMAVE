@@ -26,7 +26,7 @@ python3 computationTime.py <# of iterations>
 
 
 ## The Protocol Implementation
-A Python implementation of the protocol where the registration for a ECA "Enterprise Certificate Authority" is done. Afterwards, the protocol is executed between the sender vehicle and the TMA "Traffic Managment Agency". This implementation shows the completeness of our the protocol and the receiving of the message by the adminstrative authority.
+A Python implementation of the protocol where the registration for an ECA "Enterprise Certificate Authority" is done. Afterwards, the protocol is executed between the sender vehicle and a TMA "Traffic Managment Agency". This implementation shows the completeness of our the protocol and the receiving of the message by the TMA.
 
 ### Running the protocol on the Laptop:
 ```
