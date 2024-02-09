@@ -12,7 +12,7 @@ from ecdsa import SigningKey
 import hashlib
 import time
 
-from Primitives import *
+from PrimitivePackage.Primitives import *
 
 #PAS identities from registration.py
 

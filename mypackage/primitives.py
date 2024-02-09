@@ -59,3 +59,10 @@ def AES_Dec_using_Key(Key, iv, Cipher):
     Cipher_decrypted=int.from_bytes(DEC.decrypt(Cipher),'big')
 
     return Cipher_decrypted, DecKey
+
+# myfunctions.py
+def add(x, y):
+    return x + y
+
+def subtract(x, y):
+    return x - y

@@ -17,7 +17,7 @@ import time
 from Crypto.Hash import HMAC
 import hmac
 
-from Primitives import *
+from PrimitivePackage.Primitives import *
 
 #Identity from registration.py
 Sender_Identity= 6330614295947393657856040725909354215571545936334951160496604125994438196162

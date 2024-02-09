@@ -17,7 +17,7 @@ import time
 from Crypto.Hash import HMAC
 import hmac
 
-from Primitives import *
+from PrimitivePackage.Primitives import *
 import json
 
 #Identity from registration.py
